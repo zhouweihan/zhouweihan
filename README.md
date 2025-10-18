@@ -7,7 +7,9 @@
   - Actively involved in student organizations, cultural exchange, and academic activities  
 
 - **Massey University, New Zealand** — BInfSc Computer Science
-  *Exchange / Dual-degree Program*  
+  *Exchange / Dual-degree Program*
+  - Consecutively won the "Excellent Student" award every year
+  - Achieved A+ in multiple core courses 
   - Focused on IoT system design, cloud deployment, and embedded systems  
   - Coursework includes OOP, Data Structures, Cloud Computing, and AI deployment  
 
@@ -105,4 +107,5 @@
 - ✉️ Email: Bob_Zhouweihan@outlook.com
 
 ---
+
 
